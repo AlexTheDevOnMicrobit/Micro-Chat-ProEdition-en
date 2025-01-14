@@ -1,12 +1,15 @@
 {
-    "name": "Micro Chat v0.1.0 En",
+    "name": "Micro Chat v2.0.0 En",
     "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "microbit-pxt-timeanddate": "github:bsiever/microbit-pxt-timeanddate#v2.0.33",
+        "pxt-flexfx": "github:grandpabond/pxt-flexfx#v2.2.7",
+        "audio-recording": "*"
     },
     "files": [
         "main.blocks",
