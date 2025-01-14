@@ -1,0 +1,14 @@
+A+B for send the actual message
+A for message +1
+B for message -1
+Fonction :
+  -1 Change Group
+  0 Hello
+  1 How are you ?
+  2 Yes
+  3 No
+  4 Good
+  5 What time it is ?
+  More than 6 equal an error
+
+Special Fonction : (Wait)
