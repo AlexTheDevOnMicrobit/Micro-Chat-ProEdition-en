@@ -1,10 +1,11 @@
 {
-    "name": "Micro Chat v0.1 En",
+    "name": "Micro Chat v0.1.0 En",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
