@@ -1,6 +1,6 @@
 {
     "name": "Micro Chat v2.0.0 En",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
